@@ -11,6 +11,6 @@ I'm a tech enthusiast 👻, and i love designing websites.
 
 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,express,react,ts,next,tailwind,firebase,redux,git,github,mongodb)
+![My Skills](https://skillicons.dev/icons?i=cpp,js,nodejs,express,react,ts,next,tailwind,firebase,redux,github,mongodb&perline=6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshits19&layout=compact)
