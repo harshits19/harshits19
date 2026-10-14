@@ -2,10 +2,10 @@
 
 I'm a tech enthusiast 👻, and i love designing websites.
 
-- 👀 I’m interested in web designing and developement
-- 🌱 I’m currently learning Next Js
-- ⚡ Want to know more about Cloud Infrastructure
-- 💞️ I’m looking to collaborate on web dev projects
+- 👀 I’m interested in devops and cloud infra
+- 🌱 I’m currently learning linux
+- ⚡ Want to know more about system reliability and operations
+- 💞️ I’m looking to collaborate on devops, devsecops, cloud-infra
 - 📫 Reach me via : gaurharshit4@gmail.com
 - 💻 Checkout my Portfolio - [Harshit's](https://harshitz.netlify.app/)
 
